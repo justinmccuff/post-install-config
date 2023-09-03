@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This outlines the post-install configuration of the open-source help desk ticketing system. OsTicket is a distinguished open-source help desk management solution renowned for its comprehensive suite, encompassing ticket management and IT asset management functionalities. Designed to cater to the needs of small and midsize enterprise customers, this system is exclusively deployable in cloud environments. <br />
 
 
 
